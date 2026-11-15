@@ -1,0 +1,6 @@
+{
+  "name": "VocaStory Studio",
+  "description": "오늘 암기한 영단어를 입력하면 맞춤형 영어 지문, 한국어 해석, 단어장, 빈칸 복습 퀴즈를 자동 생성해 주는 AI 영단어 스토리 복습 웹 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
